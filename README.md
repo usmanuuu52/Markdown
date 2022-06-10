@@ -117,7 +117,12 @@ or
 
 [comment]:# (block of code)  
 ``` 
-a=10  b=20 c=a+b  print(c)
+a=10  
+
+b=20 c=a+b  
+
+print(c)
+
 ```  
 # 11- Tables
 |Physics | Maths | C.s | 
