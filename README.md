@@ -51,8 +51,9 @@ This is line 2
 # 8- Links and hyper links  
 <https://www.linkedin.com/feed/>  
 [Click here to watch my kaggle feed](https://www.kaggle.com/)  
-[usman]:https://www.kaggle.com/    
-usman akggle login is [here][usman]    
+[usman]:https://www.kaggle.com/ 
+
+usman kaggle login is [here][usman]    
 # 9- To connect images and figures with links  
 If you want to enter to this website kindly scan the qr code below. 
 ![qr](qr.png)   
