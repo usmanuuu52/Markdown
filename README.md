@@ -10,7 +10,8 @@ This is normal code
 > This is a special code of markdown 
 
 > This is another special markdown   
->This is a special code of markdown >
+
+> This is a special code of markdown 
 > 
 >This is another special markdown text  
 # 3-Line breaks
