@@ -74,11 +74,19 @@ or
 | 70| 85| 98| 
 |70| 85| 98| 
 | 70| 85| 98| 
-| 70| 85| 98|    
-[commment]:# (:----- is use for left allignment of text in table) 
+| 70| 85| 98|
+
+
+[commment]:# (:----- is use for left allignment of text in table)
+
+
 [comment]: # (----- : is use for right allignment of text in table) 
-[comment]: # (:----- : is use for middle allignment of text in table)  
+
+
+[comment]: # (:----- : is use for middle allignment of text in table)
+
 # 12- contents  
+
 [1-Heading](#1-headings)\ 
 [2-Block of words](#2-block-of-words)\ 
 [3-line breaks](#3-line-breaks)\ 
