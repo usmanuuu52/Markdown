@@ -31,7 +31,7 @@ data  science with baba Ammar.
 - Day-4     
    - Day-4.1     
    - Day-4.2         
-      - Sub heading 
+          - Sub heading 
 - Day-5 
 - Day-6  
 > Numbering  
@@ -53,7 +53,8 @@ This is line 2
 [Click here to watch my kaggle feed](https://www.kaggle.com/)  
 [usman]:https://www.kaggle.com/ 
 
-usman kaggle login is [here][usman]    
+my kaggle login is [here][usman]  
+
 # 9- To connect images and figures with links  
 If you want to enter to this website kindly scan the qr code below. 
 ![qr](qr.png)   
