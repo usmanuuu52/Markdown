@@ -1,5 +1,6 @@
 # Markdown
 Markdown language practice
+
 # contents  
 
 [1-Heading](#1-headings)\ 
@@ -50,8 +51,8 @@ data  science with baba Ammar.
 - Day-6  
 > Numbering  
  1. hello 
- 2. 2. hey 
- 3. 
+ 2. hey 
+ 3. hii
  3. hiii 
  1. hello
  1. hello 
@@ -59,15 +60,19 @@ data  science with baba Ammar.
  1. hello 
  1. hello  
 # 7-Line break or page breaks  
+
 This is line 
+
 ___ *** --- 
+
 This is line 2   
+
 # 8- Links and hyper links  
 <https://www.linkedin.com/feed/>  
 [Click here to watch my kaggle feed](https://www.kaggle.com/)  
-[usman]:https://www.kaggle.com/ 
+[usman]: https://www.kaggle.com/ 
 
-my kaggle login is [here][usman]  
+Kaggle home page [here][usman]
 
 # 9- To connect images and figures with links  
 If you want to enter to this website kindly scan the qr code below. 
@@ -111,16 +116,4 @@ a=10  b=20 c=a+b  print(c)
 
 [comment]: # (:----- : is use for middle allignment of text in table)
 
-# contents  
 
-[1-Heading](#1-headings)\ 
-[2-Block of words](#2-block-of-words)\ 
-[3-line breaks](#3-line-breaks)\ 
-[4-combine two things](#4-combination)\ 
-[5-text face](#5-face)\ 
-[6-bullet](#6-bullet-points-or-lists)\ 
-[7-line/page break](#7-line-break-or-page-breaks)\ 
-[8-links](#8--links-and-hyper-links)\ 
-[9-images and figures links](#9--to-connect-images-and-figures-with-links)\ 
-[10-code blocks](10--adding-code-or-code-blocks)\ 
-[11-Tables](#11--tables)
