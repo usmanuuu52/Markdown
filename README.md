@@ -63,7 +63,11 @@ data  science with baba Ammar.
 
 This is line 
 
-___ *** --- 
+___ 
+
+***
+
+--- 
 
 This is line 2   
 
@@ -72,16 +76,23 @@ This is line 2
 [Click here to watch my kaggle feed](https://www.kaggle.com/)  
 [usman]: https://www.kaggle.com/ 
 
-Kaggle home page [here][usman]
+Kaggle home page [Here] [usman]
 
 # 9- To connect images and figures with links  
 If you want to enter to this website kindly scan the qr code below. 
+
 ![qr](qr.png)   
+
 [comment]: # (This is also a comment. it will not be shown in the output:)  
-This is our customer picture of product:  
+
+This is our customer picture of product:
+
 ![pic](pic.jpg)  
+
 online picture:  
+
 ![pic](https://www.google.com/search?q=usman+nasir&sxsrf=ALiCzsYXWNiEC_Xq5ZZsQltPTEKiKAFecw:1654840867495&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXjcTQmqL4AhWk_7sIHT6MA7sQ_AUoAnoECAIQBA&biw=1366&bih=578&dpr=1#imgrc=jdECDL9wI7QSGM)  
+
 # 10- Adding code or code blocks
 
 this is our first program `print("Hello world")`  
